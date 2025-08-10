@@ -1,0 +1,7 @@
+module Base
+{
+    worldobject hive_model
+    {
+        DisplayName = Alveare Piazzato,
+    }
+}
