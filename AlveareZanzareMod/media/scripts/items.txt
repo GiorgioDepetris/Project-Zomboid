@@ -1,0 +1,12 @@
+module Base
+{
+    item Alveare
+    {
+        DisplayName = Alveare,
+        DisplayCategory = Item,
+        Type = Normal,
+        Weight = 5.0,
+        Icon = alveare,
+        WorldStaticModel = alveare,
+    }
+}
